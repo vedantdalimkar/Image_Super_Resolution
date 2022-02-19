@@ -34,8 +34,11 @@ Comparison:
 ![image](https://user-images.githubusercontent.com/67591647/154810743-23d42219-3ea0-460c-ad4b-0f7b1d011548.png)
 
 MSE Loss on test set:
+
 Bilinear - 0.002147814491763711
+
 Nearest Neighbour - 0.005143341142684221
+
 Bicubic - 0.002530161291360855
 
 
