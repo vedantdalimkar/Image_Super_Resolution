@@ -67,6 +67,5 @@ Comparison:
 ![image](https://user-images.githubusercontent.com/67591647/154814068-bdfb217b-1f58-4a65-9a55-61e8ed579026.png)
 
 ###### Model output for SRResNet trained using MAE loss function
-![image](https://user-images.githubusercontent.com/67591647/154816272-e33725d9-9e60-4e6d-bea5-1739f7047439.png)
-
+![image](https://user-images.githubusercontent.com/67591647/154816290-59f1b68c-dbad-4958-82db-ded098370029.png)
 
